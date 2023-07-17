@@ -167,7 +167,7 @@ listed two times in a row, _two_ GIFs will appear on the page. Try this now.
 What about the rest of `App.js`, though? Moving out from the middle, we see this
 JSX code is the _return_ value of a function called `App`:
 
-```js
+```js 
 function App() {
 
   return (
